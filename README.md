@@ -146,11 +146,6 @@ Contributions are welcome.
 
 ---
 
-## 📄 License
-
-Add a LICENSE file if you plan to distribute this project publicly (MIT is a common choice).
-
----
 
 <p align="center">
   <i>Built by <b>Amrit Raj Rajput</b>. If you find this project useful, consider giving it a ⭐.</i>
