@@ -29,7 +29,6 @@ It aims to reduce reliance on intermediaries, promote **fair pricing**, and simp
 - **Responsive UI:** Works smoothly across mobile and desktop screens.
 - **Extensible Foundation:** Designed to support messaging, verification, and price insights as the platform evolves.
 
-> If you share your `src/` structure (pages/routes), I can replace this section with **only what is currently implemented**.
 
 ---
 
