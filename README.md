@@ -1,5 +1,7 @@
-# Kissan Mitra
+Kissan Mitra | HTML, CSS 2024
+• GitHub Repository: github.com/amritrajrajput/kissan-mitra
+• Developed a responsive farmer-to-buyer market linkage platform to facilitate direct agricultural trade through an intuitive
+web interface.
 
-Kisaan Mitra is a web-based market linkage platform connecting small-scale farmers directly with buyers. 
-It eliminates intermediaries, ensures fair pricing, and simplifies agricultural trade through real-time price analytics, 
-secure messaging, product listings, and a responsive user-friendly design.
+## Project Screenshot
+![Kissan Mitra Screenshot](screenshot.png)
